@@ -34,6 +34,7 @@ $$
 
       - $T\left(\frac{n}{13^{i}}\right) + 5i$
       - $i = \log_{13}(n)$
+   
    Using this we can see that the asymtotic time complexity is $T(n) \in \Theta(\log(n))$
 
 2. For this question we basically follow the same steps as question
